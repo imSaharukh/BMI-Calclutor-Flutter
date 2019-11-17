@@ -1,6 +1,6 @@
 
 
 
-# BMI Calculator 💪
+# BMI Calculator - With Flutter💪
 
-Unit CM and KG - With Flutter
+Unit CM and KG 
